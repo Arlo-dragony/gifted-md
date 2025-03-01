@@ -58,7 +58,7 @@
 <summary>TAP TO OPEN</summary>
 <a href="https://signup.heroku.com/login"><img src="https://img.shields.io/badge/HEROKU%20SIGNUP-white" alt="Pairing Code" width="150"></a>
   
-<a href="https://session.giftedtech.my.id/auth"><img src="https://img.shields.io/badge/DEPLOY%20NOW-red" alt="Deploy Gifted" width="150"></a>
+<img src="https://dashboard.heroku.com/new?template=https://github.com/Arlo-dragony/gifted-md" alt="Deploy Gifted" width="150"></a>
 </details>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
